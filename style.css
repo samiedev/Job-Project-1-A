@@ -1,0 +1,153 @@
+.container {
+    font-size: 18px;
+    margin-left: 40%;
+}
+.navbar-brand {
+    margin: 10px;
+}
+.navbar-brand:hover {
+    background-color: rgb(245, 98, 122);
+    padding: 30px;
+}
+.textLink h3 {
+    font-size: 25px;
+    font-weight: 650;
+    color: black;
+    float: right;
+}
+
+.container-fluid img {
+    margin-left: 3rem;    
+}
+
+.card-img {
+    height: 650px;
+}
+
+.textLink {
+    display: inline-flex;
+    margin-left: auto;
+}
+
+.card-img-overlay {
+    margin: 50px;
+}
+
+.card-title {
+    color: white;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px black;
+}
+
+.card-text {
+    color: white;
+    font-size: 80px;
+    text-shadow: 2px 2px black;
+    
+    /* filter: drop-shadow(0 0 0.75rem rgb(8, 8, 8)); */
+}
+
+.btn1 {
+    color: rgb(0, 0, 0);
+    margin: 5px;
+    padding: 10px;
+    background-color: transparent;
+    border: 3px solid;
+    border-color: white;
+    font-weight: 300;
+    font-weight: 500;   
+}
+
+.btn2 {
+    color: rgb(4, 4, 4);
+    padding: 20px;
+    margin: 5px;
+    border: none;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+.btn3 {
+    color: rgb(251, 248, 248);
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    font-size: 30px;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+
+.text {
+    background-color: rgb(16, 16, 16);
+    color: white;
+}
+
+.text h1 {
+    font-weight: 800;
+    font-size: 50px;
+    margin: 50px;
+    padding: 20px;
+    margin-left: 90px;
+}
+
+.text p {
+    margin: 30px;
+    padding: 40px;
+    font-size: 22px;
+}
+
+.text-body h3 {
+    font-weight: 600;
+}
+
+.text-body {
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+.card img {
+    opacity: 90%;
+    height: 600px;
+}
+
+.card-img-overlay  h3 {
+    color: white;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.card-img-overlay p {
+    color: white;
+    font-size: 30px;
+}
+
+.text h2 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+
+/* footer */
+footer {
+    background-color: rgb(235, 235, 234);
+}
+
+.container h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    margin: 25px;
+}
+
+.nav a {
+    color: black;
+}
+
+.container a {
+    color: black;
+}
+

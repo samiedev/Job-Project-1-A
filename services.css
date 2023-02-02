@@ -1,0 +1,177 @@
+.container {
+    font-size: 18px;
+    margin-left: 40%;
+}
+.navbar-brand {
+    margin: 10px;
+}
+.navbar-brand:hover {
+    background-color: rgb(245, 98, 122);
+    padding: 30px;
+}
+.textLink h3 {
+    font-size: 25px;
+    font-weight: 650;
+    color: black;
+    float: right;
+}
+
+.container-fluid img {
+    margin-left: 3rem;    
+}
+
+.card-img {
+    height: 550px;
+}
+
+.textLink {
+    display: inline-flex;
+    margin-left: auto;
+}
+
+.card-img-overlay {
+    margin: 50px;
+}
+
+.card-img-overlay h3 {
+    color: white;
+    font-size: 80px;
+    font-family: verdana;
+}
+
+.card-img-overlay p {
+    color: white;
+    font-size: 80px;
+    /* filter: drop-shadow(0 0 0.75rem rgb(8, 8, 8)); */
+}
+
+.btn1 {
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid;
+    border-color: white;
+    font-weight: 300;
+    font-weight: 500;   
+}
+
+.btn2 {
+    color: rgb(4, 4, 4);
+    padding: 20px;
+    margin: 5px;
+    border: none;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+.btn3 {
+    color: rgb(251, 248, 248);
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+/* body */
+
+.container h1 {
+    color: black;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.card .cardImage2 {
+    opacity: 10%;
+    height: 600px;
+}
+
+.card .row  h1 {
+    color: black;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.card .text {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.card .groupImage {
+    height: 130px;
+}
+
+/* Buttom Portfolio Card Overlays*/
+/* bottom card 1 */
+.card .btmImg {
+    opacity: 90%;
+    height: 600px;
+}
+
+.card h3 {
+    color: white;
+    margin: 30px;
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.card p {
+    color: white;
+    font-size: 30px;
+    margin: 40px;
+}
+
+
+
+/* bottom card 2 */
+.text h2 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.box {
+    background-color: rgb(16, 16, 16);
+}
+
+.box img {
+    margin: 60px;
+}
+
+.box h2 {
+    color: white;
+}
+
+.box p {
+    color: white;
+    margin-top: 40px;
+    font-size: 20px;
+}
+ .box button {
+    margin-bottom: 80px;
+ }
+
+ .portImage {
+    height: 550px;
+ }
+
+
+/* footer */
+footer {
+    background-color: rgb(235, 235, 234);
+}
+
+.container h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    margin: 25px;
+}
+
+.nav a {
+    color: black;
+}
+
+.container a {
+    color: black;
+}

@@ -1,0 +1,130 @@
+.container {
+    font-size: 18px;
+    margin-left: 40%;
+}
+.navbar-brand {
+    margin: 10px;
+}
+.navbar-brand:hover {
+    background-color: rgb(245, 98, 122);
+    padding: 30px;
+}
+.textLink h3 {
+    font-size: 25px;
+    font-weight: 650;
+    color: black;
+    float: right;
+}
+
+.container-fluid img {
+    margin-left: 3rem;    
+}
+
+.card-img {
+    height: 650px;
+}
+
+.textLink {
+    display: inline-flex;
+    margin-left: auto;
+}
+
+.card-img-overlay {
+    margin: 50px;
+}
+
+.card-title {
+    color: white;
+    font-size: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-text {
+    color: white;
+    font-size: 80px;
+    /* filter: drop-shadow(0 0 0.75rem rgb(8, 8, 8)); */
+}
+
+.card .text {
+    color: white;
+    font-size: 30px;
+}
+
+.btn1 {
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid;
+    border-color: white;
+    font-weight: 300;
+    font-weight: 500;   
+}
+
+.btn2 {
+    color: rgb(4, 4, 4);
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+.btn3 {
+    color: rgb(251, 248, 248);
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    font-weight: 300;
+    font-weight: 500;    
+}
+
+
+
+/* body */
+.bgImage {
+    height: 1050px;
+    opacity: 15%;
+}
+
+.card h1 {
+    font-weight: 500;
+}
+
+.card .card-text {
+    font-size: 20px;
+    color: black;
+}
+
+.text a {
+    color: black;
+}
+
+.card .row {
+    font-size: 20px;
+}
+
+
+
+/* footer */
+footer {
+    background-color: rgb(235, 235, 234);
+}
+
+.container h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav {
+    margin: 25px;
+}
+
+.nav a {
+    color: black;
+}
+
+.container a {
+    color: black;
+}
+
